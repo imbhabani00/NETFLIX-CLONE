@@ -1,0 +1,23 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "netflix clone",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.20.2",
+    "fsevents": "^2.3.3",
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.37",
+    "rollup": "^4.13.0",
+    "source-map-js": "^1.2.0",
+    "vite": "^5.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhabanishankar",
+  "license": "ISC"
+}
